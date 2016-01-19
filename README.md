@@ -13,6 +13,5 @@ https://www.microsoft.com/ko-KR/download/details.aspx?id=48593  설치.
 
 
 1. npm install -g typescript
-
-
+2. tsc greeter.ts
 
